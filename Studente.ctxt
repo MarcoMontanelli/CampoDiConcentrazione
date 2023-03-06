@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Studente
+comment1.params=nomep\ datapBella
+comment1.target=Studente(java.lang.String,\ java.time.LocalDate)
+comment10.params=
+comment10.target=java.lang.String\ getNome()
+comment11.params=
+comment11.target=java.time.LocalDate\ getNascita()
+comment12.params=
+comment12.target=int\ getNumero()
+comment2.params=voto\ materia
+comment2.target=void\ aggiungiVoto(int,\ java.lang.String)
+comment3.params=votip\ materia
+comment3.target=void\ aggiungiVotiArray(java.util.ArrayList,\ java.lang.String)
+comment4.params=nota
+comment4.target=void\ aggiungiNota(java.lang.String)
+comment5.params=notep
+comment5.target=void\ aggiungiNoteArray(java.util.LinkedList)
+comment6.params=materia
+comment6.target=java.util.ArrayList\ getVotiMateria(java.lang.String)
+comment7.params=index\ materia
+comment7.target=java.lang.Integer\ getVoto(int,\ java.lang.String)
+comment8.params=index
+comment8.target=java.lang.String\ getNota(int)
+comment9.params=
+comment9.target=java.util.LinkedList\ getNote()
+numComments=13
